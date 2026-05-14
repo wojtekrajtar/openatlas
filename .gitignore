@@ -1,0 +1,47 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node/Docusaurus (if used)
+node_modules/
+.npm
+.yarn
+.pnp.*
+.env
+dist/
+build/
+
+# Zotero/Research
+*.sqlite
+*.zotero
+Zotero/
+storage/
+*.pdf
+*.epub
+*.mobi
+zotero.sqlite
+zotero.sqlite-wal
+zotero.sqlite-shm
+*.sqlite-journal
+
+# Markdown/Static site
+*.log
+.cache/
+public/build/
+
+# Global
+*.log
+.DS_Store
+Thumbs.db
